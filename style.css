@@ -15,3 +15,21 @@ table {
     width: 600px;
 }
 
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+input, textarea {
+    width: 300px;
+}
+
+input {
+    display: inline-block;
+}
+
+textarea {
+    vertical-align: middle;
+}
+
+
